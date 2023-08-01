@@ -1,0 +1,9 @@
+.carousel.slide .carousel-item-next, .carousel.slide .carousel-item-prev, .carousel.slide .carousel-item.active {
+  display: flex;
+  align-items: center;
+}
+.carousel-control-next, .carousel-control-prev {
+  position: relative;
+  background: #000;
+  width: 3%;
+}

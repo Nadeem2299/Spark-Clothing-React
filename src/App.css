@@ -1,0 +1,42 @@
+body {
+  background-color: #FAF7F0;
+}
+
+header {
+  position: fixed;
+  z-index: 9;
+  width: 100%;
+  top: 0;
+}
+
+.product-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(298px, auto));
+}
+
+.product-card {
+  width: 298px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a.active li {
+  color: #000
+}
+
+@media (max-width: 991px) {
+  main.container div {
+    margin-top: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .product-cards a .product-card .card {
+    height: 560px;
+  }
+}

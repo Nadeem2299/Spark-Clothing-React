@@ -1,0 +1,7 @@
+/* used for make the footer right align  */
+footer ul.navbar-nav {
+  flex-direction: row;
+}
+footer ul.navbar-nav li {
+  margin: 0 10px;
+}

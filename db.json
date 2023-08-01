@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Men Black Cotton T-shirt",
+      "description": "Black solid T-shirt, has a round neck, short sleeves. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit.",
+      "imageUrl": "/assets/images/men-black-tshirt.webp",
+      "thumbnailUrl": "/assets/images/men-black-tshirt.webp",
+      "imgAltText": "Men Black Cotton T-shirt",
+      "maxRetailPrice": 600,
+      "category": "Men",
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        },
+        {
+          "id": 1003,
+          "name": "Kat",
+          "email": "k@t.com",
+          "phone": "976522222",
+          "comment": "great!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "SINGNI Women Purple Kurtas",
+      "description": "Women Purple Ethnic Motifs Embroidered Mirror Work Kurta with Trousers & Dupatta. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit.",
+      "imageUrl": "/assets/images/violet-women-kurta.webp",
+      "thumbnailUrl": "/assets/images/violet-women-kurta.webp",
+      "imgAltText": "SINGNI Women Purple Kurtas",
+      "maxRetailPrice": 900,
+      "category": "Women",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 40,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "RIKIDOOS Boys Coat",
+      "description": "White Printed single-breasted smart-fit Light weight cotton fabric blazer, has a notched lapel, long sleeves, two pockets, button closure, attached lining, Italian Bastled Back with no vents. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit.",
+      "imageUrl": "/assets/images/pink-kid-wear.webp",
+      "thumbnailUrl": "/assets/images/pink-kid-wear.webp",
+      "imgAltText": "Apple-Macbook-Pro-M2",
+      "maxRetailPrice": 850,
+      "category": "Kids",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 70,
+      "bestSellerRanking": 3,
+      "featured": false,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Roadster Women green Suit",
+      "description": "Solid green Suit, has a spread collar, 4 pockets, snap button closure, long sleeves, straight hem, and unlined lining. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit.",
+      "imageUrl": "/assets/images/green-women-kurta.webp",
+      "thumbnailUrl": "/assets/images/green-women-kurta.webp",
+      "imgAltText": "Roadster Women green Suit",
+      "maxRetailPrice": 2000,
+      "category": "Women",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 35,
+      "bestSellerRanking": 3,
+      "featured": false,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Manchester United Home Shirt",
+      "description": "Manchester United Home Shirt Blue windowpane checks checked opaque Casual shirt ,has a spread collar, button placket , long regular sleeves, curved hem. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit.",
+      "imageUrl": "/assets/images/dennis-lingo-shirt.webp",
+      "thumbnailUrl": "/assets/images/dennis-lingo-shirt.webp",
+      "imgAltText": "Manchester United Home Shirt",
+      "maxRetailPrice": 1800,
+      "category": "Men",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 32,
+      "bestSellerRanking": 3,
+      "featured": false,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Puma Men Black T-shirt",
+      "description": "Black solid puffer t-shirt, has a hooded, 2 pockets ,has a zip closure, long sleeves, straight hemline, nylon lining. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit.",
+      "imageUrl": "/assets/images/puma-men-tshirt.webp",
+      "thumbnailUrl": "/assets/images/puma-men-tshirt.webp",
+      "imgAltText": "Puma Men Black T-shirt",
+      "maxRetailPrice": 2100,
+      "category": "Men",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 41,
+      "bestSellerRanking": 3,
+      "featured": false,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "HERE&NOW Boys Regular body wear",
+      "description": "HERE&NOW Boys Regular body wear graphic printed, has regular length, has round neck, short, regular sleeves, knitted cotton fabric Black, red and grey, typography printed, has regular length, has round neck, short, regular sleeves, knitted cotton fabric. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit.",
+      "imageUrl": "/assets/images/green-kid-wear.webp",
+      "thumbnailUrl": "/assets/images/green-kid-wear.webp",
+      "imgAltText": "HERE&NOW Boys Regular Jeans",
+      "maxRetailPrice": 1200,
+      "category": "Kids",
+      "discountApplicable": 25,
+      "added": "4/9/2021",
+      "quantity": 50,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "HELLCAT Boys T-shirt",
+      "description": "Pack of 5 T-shirt for boys Blue, black, graphic printed, has regular length, has round neck, short, regular sleeves, knitted cotton fabric Black, red and grey, typography printed, has regular length, has round neck, short, regular sleeves, knitted cotton fabric. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit. ",
+      "imageUrl": "/assets/images/kids-set-wear.webp",
+      "thumbnailUrl": "/assets/images/kids-set-wear.webp",
+      "imgAltText": "HELLCAT Boys T-shirt",
+      "maxRetailPrice": 1100,
+      "category": "Kids",
+      "discountApplicable": 20,
+      "added": "4/9/2021",
+      "quantity": 100,
+      "bestSellerRanking": 3,
+      "featured": false,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Lirose Pure Cotton Kurta",
+      "description": "Colourblocked Gotta Patti Anarkali Pure Cotton Kurta With Trousers & Dupatta. Buck Mason came out on top in our roundup for a number of reasons. It's the right price, weight, and fit, and it hits at all the right spots. The medium-weight shirt is breathable and ultrasoft, and has only gotten softer with more wear and washes. I've had mine for about half a year now, and it's my favorite shirt for layering or wearing on its own. The men we spoke to praised its Goldilocks fit.",
+      "imageUrl": "/assets/images/red-women-kurta.webp",
+      "thumbnailUrl": "/assets/images/red-women-kurta.webp",
+      "imgAltText": "Lirose Pure Cotton Kurta",
+      "maxRetailPrice": 2150,
+      "category": "Women",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 3,
+      "featured": false,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Kevin",
+          "email": "k@l.com",
+          "phone": "97654663",
+          "comment": "amazing!",
+          "rating": 4
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 100,
+      "name": "All"
+    },
+    {
+      "id": 101,
+      "name": "Men"
+    },
+    {
+      "id": 102,
+      "name": "Women"
+    },
+    {
+      "id": 103,
+      "name": "Kids"
+    }
+  ],
+  "contactData": [
+    {
+      "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+      "phone": [
+        "(91) 987 654 3210",
+        "(91) 987 654 3211"
+      ],
+      "email": "contact@sparkclothing.com"
+    }
+  ],
+  "getInTouchData": [
+    {
+      "name": "John",
+      "email": "John@gmail.com",
+      "phone": "(91) 933 622 4000",
+      "message": "Awesome website",
+      "id": 1
+    }
+  ]
+}
